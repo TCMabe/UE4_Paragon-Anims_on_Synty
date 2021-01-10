@@ -1,4 +1,4 @@
-# UE4_Paragon_Anims_on_Mannequin
+# UE4_Paragon_Anims_on_Synty
 
 Welcome to the UE4_Paragon_Anims_on_Mannequin project. 
 These animations are only for use within an Epic Unreal Engine project and their download and use from this repository acknowledges your agreement to be bound by the terms and conditions implied by the Epic Unreal Engine license agreement.
