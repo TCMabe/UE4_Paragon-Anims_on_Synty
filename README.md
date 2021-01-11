@@ -3,7 +3,7 @@
 Welcome to the UE4_Paragon_Anims_on_Synty project. 
 These animations are only for use within an Epic Unreal Engine project and their download and use from this repository acknowledges your agreement to be bound by the terms and conditions implied by the Epic Unreal Engine license agreement.
 
-Files are in UE4_Paragon-Anims_on_Synty/Content/Synty_UE/Animations/Paragon/
+Files are in /Synty_UE/Animations/Paragon/
 
 To use these animations on your character:
 
